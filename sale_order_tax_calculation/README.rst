@@ -2,9 +2,9 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-============================
-Subtotal with TAX in SO line
-============================
+================================
+Subtotal with TAX in SO line தமிழ்
+================================
 
 * This module calculates TAX amount for each SO line and display it in SO Line.
 
