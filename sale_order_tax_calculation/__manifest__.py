@@ -7,9 +7,6 @@
     'summary': """
        Subtotal with TAX""",
 
-    'description': """
-        This module calculates TAX amount for each SO line and display it in SO Line.
-    """,
     'author': "Vignesh",
     'website': "viki2.odoo.com",
     'category': 'sale',
